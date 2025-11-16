@@ -1,0 +1,7 @@
+C:\c#\5-11-25\5-11-25\bin\Debug\5-11-25.exe.config
+C:\c#\5-11-25\5-11-25\bin\Debug\5-11-25.exe
+C:\c#\5-11-25\5-11-25\bin\Debug\5-11-25.pdb
+C:\c#\5-11-25\5-11-25\obj\Debug\5-11-25.csproj.AssemblyReference.cache
+C:\c#\5-11-25\5-11-25\obj\Debug\5-11-25.csproj.CoreCompileInputs.cache
+C:\c#\5-11-25\5-11-25\obj\Debug\5-11-25.exe
+C:\c#\5-11-25\5-11-25\obj\Debug\5-11-25.pdb
