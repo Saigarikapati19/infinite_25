@@ -1,0 +1,7 @@
+C:\c#\Employee salary assignment\Employee salary assignment\bin\Debug\Employee salary assignment.exe.config
+C:\c#\Employee salary assignment\Employee salary assignment\bin\Debug\Employee salary assignment.exe
+C:\c#\Employee salary assignment\Employee salary assignment\bin\Debug\Employee salary assignment.pdb
+C:\c#\Employee salary assignment\Employee salary assignment\obj\Debug\Employee salary assignment.csproj.AssemblyReference.cache
+C:\c#\Employee salary assignment\Employee salary assignment\obj\Debug\Employee salary assignment.csproj.CoreCompileInputs.cache
+C:\c#\Employee salary assignment\Employee salary assignment\obj\Debug\Employee salary assignment.exe
+C:\c#\Employee salary assignment\Employee salary assignment\obj\Debug\Employee salary assignment.pdb
