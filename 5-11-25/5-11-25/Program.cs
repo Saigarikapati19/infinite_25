@@ -72,7 +72,7 @@ namespace _5_11_25
 
                     customer.PrintInvoice(total, netpayable, tax);
 
-                    n--;
+                    
 
                 }
 
