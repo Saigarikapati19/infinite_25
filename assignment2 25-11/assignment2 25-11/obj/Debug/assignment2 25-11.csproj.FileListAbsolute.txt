@@ -1,2 +1,0 @@
-C:\c#\assignment2 25-11\assignment2 25-11\obj\Debug\assignment2 25-11.csproj.AssemblyReference.cache
-C:\c#\assignment2 25-11\assignment2 25-11\obj\Debug\assignment2 25-11.csproj.CoreCompileInputs.cache
