@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\c#\\assignmentfeatures\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2682BAE7-EDB1-41D3-B1B9-B2BD752FF59D}|assignmentfeatures\\assignmentfeatures.csproj|c:\\c#\\assignmentfeatures\\assignmentfeatures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2682BAE7-EDB1-41D3-B1B9-B2BD752FF59D}|assignmentfeatures\\assignmentfeatures.csproj|solutionrelative:assignmentfeatures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2682BAE7-EDB1-41D3-B1B9-B2BD752FF59D}|assignmentfeatures\\assignmentfeatures.csproj|c:\\c#\\assignmentfeatures\\assignmentfeatures\\mockemployeedatareader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2682BAE7-EDB1-41D3-B1B9-B2BD752FF59D}|assignmentfeatures\\assignmentfeatures.csproj|solutionrelative:assignmentfeatures\\mockemployeedatareader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2682BAE7-EDB1-41D3-B1B9-B2BD752FF59D}|assignmentfeatures\\assignmentfeatures.csproj|c:\\c#\\assignmentfeatures\\assignmentfeatures\\employedatareader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2682BAE7-EDB1-41D3-B1B9-B2BD752FF59D}|assignmentfeatures\\assignmentfeatures.csproj|solutionrelative:assignmentfeatures\\employedatareader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2682BAE7-EDB1-41D3-B1B9-B2BD752FF59D}|assignmentfeatures\\assignmentfeatures.csproj|c:\\c#\\assignmentfeatures\\assignmentfeatures\\employerecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2682BAE7-EDB1-41D3-B1B9-B2BD752FF59D}|assignmentfeatures\\assignmentfeatures.csproj|solutionrelative:assignmentfeatures\\employerecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2682BAE7-EDB1-41D3-B1B9-B2BD752FF59D}|assignmentfeatures\\assignmentfeatures.csproj|c:\\c#\\assignmentfeatures\\assignmentfeatures\\payrollprocess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2682BAE7-EDB1-41D3-B1B9-B2BD752FF59D}|assignmentfeatures\\assignmentfeatures.csproj|solutionrelative:assignmentfeatures\\payrollprocess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PayrollProcess.cs",
+              "DocumentMoniker": "C:\\c#\\assignmentfeatures\\assignmentfeatures\\PayrollProcess.cs",
+              "RelativeDocumentMoniker": "assignmentfeatures\\PayrollProcess.cs",
+              "ToolTip": "C:\\c#\\assignmentfeatures\\assignmentfeatures\\PayrollProcess.cs",
+              "RelativeToolTip": "assignmentfeatures\\PayrollProcess.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwFEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T18:04:01.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MockEmployeeDataReader.cs",
+              "DocumentMoniker": "C:\\c#\\assignmentfeatures\\assignmentfeatures\\MockEmployeeDataReader.cs",
+              "RelativeDocumentMoniker": "assignmentfeatures\\MockEmployeeDataReader.cs",
+              "ToolTip": "C:\\c#\\assignmentfeatures\\assignmentfeatures\\MockEmployeeDataReader.cs",
+              "RelativeToolTip": "assignmentfeatures\\MockEmployeeDataReader.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T18:02:54.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeDataReader.cs",
+              "DocumentMoniker": "C:\\c#\\assignmentfeatures\\assignmentfeatures\\EmployeDataReader.cs",
+              "RelativeDocumentMoniker": "assignmentfeatures\\EmployeDataReader.cs",
+              "ToolTip": "C:\\c#\\assignmentfeatures\\assignmentfeatures\\EmployeDataReader.cs",
+              "RelativeToolTip": "assignmentfeatures\\EmployeDataReader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T18:02:01.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeRecord.cs",
+              "DocumentMoniker": "C:\\c#\\assignmentfeatures\\assignmentfeatures\\EmployeRecord.cs",
+              "RelativeDocumentMoniker": "assignmentfeatures\\EmployeRecord.cs",
+              "ToolTip": "C:\\c#\\assignmentfeatures\\assignmentfeatures\\EmployeRecord.cs",
+              "RelativeToolTip": "assignmentfeatures\\EmployeRecord.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T18:01:25.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\c#\\assignmentfeatures\\assignmentfeatures\\Program.cs",
+              "RelativeDocumentMoniker": "assignmentfeatures\\Program.cs",
+              "ToolTip": "C:\\c#\\assignmentfeatures\\assignmentfeatures\\Program.cs",
+              "RelativeToolTip": "assignmentfeatures\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T17:59:48.849Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

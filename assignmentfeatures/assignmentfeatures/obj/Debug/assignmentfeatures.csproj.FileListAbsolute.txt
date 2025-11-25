@@ -1,0 +1,7 @@
+C:\c#\assignmentfeatures\assignmentfeatures\bin\Debug\assignmentfeatures.exe.config
+C:\c#\assignmentfeatures\assignmentfeatures\bin\Debug\assignmentfeatures.exe
+C:\c#\assignmentfeatures\assignmentfeatures\bin\Debug\assignmentfeatures.pdb
+C:\c#\assignmentfeatures\assignmentfeatures\obj\Debug\assignmentfeatures.csproj.AssemblyReference.cache
+C:\c#\assignmentfeatures\assignmentfeatures\obj\Debug\assignmentfeatures.csproj.CoreCompileInputs.cache
+C:\c#\assignmentfeatures\assignmentfeatures\obj\Debug\assignmentfeatures.exe
+C:\c#\assignmentfeatures\assignmentfeatures\obj\Debug\assignmentfeatures.pdb
