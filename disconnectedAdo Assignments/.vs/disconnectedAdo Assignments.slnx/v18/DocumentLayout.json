@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\c#\\disconnectedAdo Assignments\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{890A4CBB-0BA5-4331-BD2E-7BD2947350B6}|disconnectedAdo Assignments\\disconnectedAdo Assignments.csproj|c:\\c#\\disconnectedado assignments\\disconnectedado assignments\\disconnected.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{890A4CBB-0BA5-4331-BD2E-7BD2947350B6}|disconnectedAdo Assignments\\disconnectedAdo Assignments.csproj|solutionrelative:disconnectedado assignments\\disconnected.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{890A4CBB-0BA5-4331-BD2E-7BD2947350B6}|disconnectedAdo Assignments\\disconnectedAdo Assignments.csproj|c:\\c#\\disconnectedado assignments\\disconnectedado assignments\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{890A4CBB-0BA5-4331-BD2E-7BD2947350B6}|disconnectedAdo Assignments\\disconnectedAdo Assignments.csproj|solutionrelative:disconnectedado assignments\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Disconnected.cs",
+              "DocumentMoniker": "C:\\c#\\disconnectedAdo Assignments\\disconnectedAdo Assignments\\Disconnected.cs",
+              "RelativeDocumentMoniker": "disconnectedAdo Assignments\\Disconnected.cs",
+              "ToolTip": "C:\\c#\\disconnectedAdo Assignments\\disconnectedAdo Assignments\\Disconnected.cs",
+              "RelativeToolTip": "disconnectedAdo Assignments\\Disconnected.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T09:59:01.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\c#\\disconnectedAdo Assignments\\disconnectedAdo Assignments\\Program.cs",
+              "RelativeDocumentMoniker": "disconnectedAdo Assignments\\Program.cs",
+              "ToolTip": "C:\\c#\\disconnectedAdo Assignments\\disconnectedAdo Assignments\\Program.cs",
+              "RelativeToolTip": "disconnectedAdo Assignments\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T09:58:33.984Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

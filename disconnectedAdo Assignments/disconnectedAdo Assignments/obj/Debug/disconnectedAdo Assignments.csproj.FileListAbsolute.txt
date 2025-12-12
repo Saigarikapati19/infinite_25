@@ -1,0 +1,7 @@
+C:\c#\disconnectedAdo Assignments\disconnectedAdo Assignments\bin\Debug\disconnectedAdo Assignments.exe.config
+C:\c#\disconnectedAdo Assignments\disconnectedAdo Assignments\bin\Debug\disconnectedAdo Assignments.exe
+C:\c#\disconnectedAdo Assignments\disconnectedAdo Assignments\bin\Debug\disconnectedAdo Assignments.pdb
+C:\c#\disconnectedAdo Assignments\disconnectedAdo Assignments\obj\Debug\disconnectedAdo Assignments.csproj.AssemblyReference.cache
+C:\c#\disconnectedAdo Assignments\disconnectedAdo Assignments\obj\Debug\disconnectedAdo Assignments.csproj.CoreCompileInputs.cache
+C:\c#\disconnectedAdo Assignments\disconnectedAdo Assignments\obj\Debug\disconnectedAdo Assignments.exe
+C:\c#\disconnectedAdo Assignments\disconnectedAdo Assignments\obj\Debug\disconnectedAdo Assignments.pdb
