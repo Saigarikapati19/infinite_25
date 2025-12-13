@@ -1,7 +1,0 @@
-C:\c#\CD Assessment\CD Assessment\bin\Debug\CD Assessment.exe.config
-C:\c#\CD Assessment\CD Assessment\bin\Debug\CD Assessment.exe
-C:\c#\CD Assessment\CD Assessment\bin\Debug\CD Assessment.pdb
-C:\c#\CD Assessment\CD Assessment\obj\Debug\CD Assessment.csproj.AssemblyReference.cache
-C:\c#\CD Assessment\CD Assessment\obj\Debug\CD Assessment.csproj.CoreCompileInputs.cache
-C:\c#\CD Assessment\CD Assessment\obj\Debug\CD Assessment.exe
-C:\c#\CD Assessment\CD Assessment\obj\Debug\CD Assessment.pdb
