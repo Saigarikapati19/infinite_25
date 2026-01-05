@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Multiplication and Division</title>
+</head>
+<body>
+
+<h3>Calculator</h3>
+
+1st Number:
+<input type="Number" id="n1"><br><br>
+
+2nd Number:
+<input type="Number" id="n2"><br><br>
+
+<button onclick="mul()">Multiplication</button>
+<button onclick="div()">Division</button>
+
+<p>The Answer is :</p>
+<p id="result"></p>
+
+<script>
+function mul()
+{
+    var a = document.getElementById("n1").value;
+        var b = document.getElementById("n2").value;    
+        var mul = a*b;
+        var div = a/b;  
+        document.getElementById("result").innerHTML =
+            "Multiplication = " + mul + "<br>" +
+            "Division = " + div;
+}
+           
+</script>
+
+</body>
+</html>

@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <title>Append on Input Change</title>
+ 
+</head>
+<body>
+    <input type="text" id="myInput" placeholder="Enter Text here">
+    <div id="messageContainer"></div>
+ 
+    <script>
+        $(document).ready(function(){
+            $("#myInput").on("change", function(){
+                var inputValue = $(this).val();
+                $("#messageContainer").append("<p>text changed to: " + inputValue + "</p>");
+            });
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hide odd</title>
+</head>
+<body>
+    <h3>Hide Odd  Rows</h3>
+        <table>
+            <tr>
+                <th>Id</th>
+                <th>Colors</th>
+            </tr>
+            <tr>
+                <th>1</th>
+                <th>Green</th>
+            </tr>
+            <tr>
+                <th>2</th>
+                <th>Black</th>
+            </tr>
+            <tr>
+                <th>3</th>
+                <th>Pink</th>
+            </tr>
+            <tr>
+                <th>4</th>
+                <th>Red</th>
+            </tr>
+            <tr>
+                <th>5</th>
+                <th>White</th>
+            </tr>
+        </table>
+        <button id="hideOdd">Hide Odd Rows</button>
+        <script>
+            $("#hideOdd").click(function(){
+                $("tr:odd").hide();
+            });
+        </script>
+</body>
+</html>
