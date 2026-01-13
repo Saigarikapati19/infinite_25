@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ASP\\Codechallange8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B735F8C2-1867-48F5-852E-4CE6E1D0AFF1}|Codechallange8\\Codechallange8.csproj|c:\\asp\\codechallange8\\codechallange8\\views\\code\\customerorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B735F8C2-1867-48F5-852E-4CE6E1D0AFF1}|Codechallange8\\Codechallange8.csproj|solutionrelative:codechallange8\\views\\code\\customerorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B735F8C2-1867-48F5-852E-4CE6E1D0AFF1}|Codechallange8\\Codechallange8.csproj|c:\\asp\\codechallange8\\codechallange8\\views\\code\\customersingermany.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B735F8C2-1867-48F5-852E-4CE6E1D0AFF1}|Codechallange8\\Codechallange8.csproj|solutionrelative:codechallange8\\views\\code\\customersingermany.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B735F8C2-1867-48F5-852E-4CE6E1D0AFF1}|Codechallange8\\Codechallange8.csproj|c:\\asp\\codechallange8\\codechallange8\\controllers\\codecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B735F8C2-1867-48F5-852E-4CE6E1D0AFF1}|Codechallange8\\Codechallange8.csproj|solutionrelative:codechallange8\\controllers\\codecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerOrder.cshtml",
+              "DocumentMoniker": "C:\\ASP\\Codechallange8\\Codechallange8\\Views\\Code\\CustomerOrder.cshtml",
+              "RelativeDocumentMoniker": "Codechallange8\\Views\\Code\\CustomerOrder.cshtml",
+              "ToolTip": "C:\\ASP\\Codechallange8\\Codechallange8\\Views\\Code\\CustomerOrder.cshtml",
+              "RelativeToolTip": "Codechallange8\\Views\\Code\\CustomerOrder.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-13T04:44:12.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomersInGermany.cshtml",
+              "DocumentMoniker": "C:\\ASP\\Codechallange8\\Codechallange8\\Views\\Code\\CustomersInGermany.cshtml",
+              "RelativeDocumentMoniker": "Codechallange8\\Views\\Code\\CustomersInGermany.cshtml",
+              "ToolTip": "C:\\ASP\\Codechallange8\\Codechallange8\\Views\\Code\\CustomersInGermany.cshtml",
+              "RelativeToolTip": "Codechallange8\\Views\\Code\\CustomersInGermany.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-13T04:41:53.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CodeController.cs",
+              "DocumentMoniker": "C:\\ASP\\Codechallange8\\Codechallange8\\Controllers\\CodeController.cs",
+              "RelativeDocumentMoniker": "Codechallange8\\Controllers\\CodeController.cs",
+              "ToolTip": "C:\\ASP\\Codechallange8\\Codechallange8\\Controllers\\CodeController.cs",
+              "RelativeToolTip": "Codechallange8\\Controllers\\CodeController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T04:29:43.489Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
